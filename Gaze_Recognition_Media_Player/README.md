@@ -14,7 +14,7 @@ This is a Python (2 and 3) library that provides a **webcam-based eye tracking s
 Clone this project:
 
 ```
-git clone 
+git clone https://github.com/AbhishekTyagi404/Deep-Learning-Python/tree/master/Gaze_Recognition_Media_Player
 ```
 
 Install these dependencies (NumPy, OpenCV, Dlib):
